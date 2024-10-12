@@ -23,4 +23,4 @@ pip install -r requirements.txt
 
 *If you use this code in your research or publications, please cite the following article:*
 
-*[Insert full citation of your research article here]*
+*Reyes-Chapero et. al. (sf) Cortical parvalbumin-expressing interneurons sample network  oscillations in their synaptic activity*
