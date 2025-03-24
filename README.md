@@ -1,5 +1,5 @@
 # synaptic-activity-spectral-analysis
-This repository contains scripts for processing data and extracting spectral features from synaptic activity. The code is part of the research article "Cortical parvalbumin-expressing interneurons sample network  oscillations in their synaptic activity".
+This repository contains scripts for processing data and extracting spectral features from synaptic activity. The code is part of the research article "Cortical parvalbumin-expressing interneurons sample network  oscillations in their synaptic activity" doi: 10.1016/j.neuroscience.2025.03.021
 
 ## Requirements
 
